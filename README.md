@@ -2,16 +2,22 @@
 The website is a sleek, user-friendly e-commerce platform dedicated to selling Apple’s Macbook line of laptops. The homepage greets visitors with a clean, minimalist design that highlights the latest Macbook models in high-resolution images. Each product is accompanied by a brief description, highlighting key features such as the processor speed, display quality, and battery life.<br><br>The navigation bar at the top provides easy access to different categories, such as ‘Macbook Air’, ‘Macbook Pro’, and ‘Accessories’. Each category page presents a grid of products with filters on the side, allowing users to sort by price, popularity, or release date.<br><br>Clicking on a product leads to a detailed product page with more in-depth specifications, customer reviews, and a gallery of images showcasing the product from various angles. There’s also an ‘Add to Cart’ button for a seamless shopping experience.<br><br>The website also features a secure checkout process, multiple payment options, and customer support via live chat and email. It’s a one-stop-shop for anyone looking to purchase a Macbook.
 
 
-# 💻 Tech Stack:
+# 💻 Tech:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🤖 Admin
+
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2015.01.45.png?alt=media&token=9d988fe2-d0f3-4ab0-8c14-2b7cb714c48d" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2018.16.45.png?alt=media&token=2b9a95d5-ddc2-4b1e-913a-2aab7ae1985e" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2018.16.27.png?alt=media&token=f67832cf-f26d-4213-86ec-d33bd55a05c0" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.07.16.png?alt=media&token=1d7abe3a-0276-4e0d-9878-5f13382a4712" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.13.19.png?alt=media&token=200fac2b-519d-4b75-b7ed-6ba7ec16ee49" />
+
+# 🖥📲 Client
+
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.12.38.png?alt=media&token=26c66a16-89a4-4b9f-9d71-fcdef8d41904" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.12.20.png?alt=media&token=f024bc08-83ea-43d5-b452-093cf5c6b47e4" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.11.43.png?alt=media&token=8ad141b5-b812-4949-9b7c-f98f0e1b817b" />
