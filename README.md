@@ -18,7 +18,6 @@ The website is a sleek, user-friendly e-commerce platform dedicated to selling A
 
 # 🖥📲 Client
 
-<img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.12.38.png?alt=media&token=26c66a16-89a4-4b9f-9d71-fcdef8d41904" />
-<img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.12.20.png?alt=media&token=f024bc08-83ea-43d5-b452-093cf5c6b47e4" />
+<img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%20(136).png?alt=media&token=9329e85b-ff36-48ca-997f-7f62c4261f73" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.11.43.png?alt=media&token=8ad141b5-b812-4949-9b7c-f98f0e1b817b" />
 <img align="center" alt="Coding" width="fix-content" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/Screenshot%2001-26-2024%2020.11.54.png?alt=media&token=bd9fbd25-72ef-4f90-90dd-4666d9aafbf2" />
